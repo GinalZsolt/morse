@@ -1,0 +1,9 @@
+E:\prog\morze\morze\bin\Debug\morze.exe.config
+E:\prog\morze\morze\bin\Debug\morze.exe
+E:\prog\morze\morze\bin\Debug\morze.pdb
+E:\prog\morze\morze\obj\Debug\morze.csprojAssemblyReference.cache
+E:\prog\morze\morze\obj\Debug\morze.Form1.resources
+E:\prog\morze\morze\obj\Debug\morze.Properties.Resources.resources
+E:\prog\morze\morze\obj\Debug\morze.csproj.GenerateResource.cache
+E:\prog\morze\morze\obj\Debug\morze.exe
+E:\prog\morze\morze\obj\Debug\morze.pdb
